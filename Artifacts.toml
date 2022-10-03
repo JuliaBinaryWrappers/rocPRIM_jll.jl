@@ -1,20 +1,20 @@
 [[rocPRIM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a67d59d56d1015cd5adf0c4de22428f81976570"
+git-tree-sha1 = "36b6a7d75c84683c4014ca56c7c8322cf88c911b"
 libc = "glibc"
 os = "linux"
 
     [[rocPRIM.download]]
-    sha256 = "5613a6b9ffcdb13117eb0d6a47c6328b36b7e65714808437e03b2bd04dd0bb7d"
-    url = "https://github.com/JuliaBinaryWrappers/rocPRIM_jll.jl/releases/download/rocPRIM-v4.5.2+0/rocPRIM.v4.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "90b8dfbf2e1ee07ab905c5618eb320a04a8df34d2b3826e044aaab8488958a55"
+    url = "https://github.com/JuliaBinaryWrappers/rocPRIM_jll.jl/releases/download/rocPRIM-v5.2.3+0/rocPRIM.v5.2.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[rocPRIM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c17790e9f0ef1a4e1e23120d9556d862d21bd68"
+git-tree-sha1 = "36b6a7d75c84683c4014ca56c7c8322cf88c911b"
 libc = "musl"
 os = "linux"
 
     [[rocPRIM.download]]
-    sha256 = "eb064885d9c16a9c33e6167471a50d768e77ed8eb46c260b09231a70da1c1941"
-    url = "https://github.com/JuliaBinaryWrappers/rocPRIM_jll.jl/releases/download/rocPRIM-v4.5.2+0/rocPRIM.v4.5.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "90b8dfbf2e1ee07ab905c5618eb320a04a8df34d2b3826e044aaab8488958a55"
+    url = "https://github.com/JuliaBinaryWrappers/rocPRIM_jll.jl/releases/download/rocPRIM-v5.2.3+0/rocPRIM.v5.2.3.x86_64-linux-musl-cxx11.tar.gz"
